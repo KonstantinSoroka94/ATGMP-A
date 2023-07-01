@@ -1,0 +1,10 @@
+[
+  {"name": "total"},
+  {"name": "passed"},
+  {"name": "failed"},
+  {"name": "skipped"},
+  {"name": "product bug"},
+  {"name": "auto bug"},
+  {"name": "system issue"},
+  {"name": "to investigate"}
+]

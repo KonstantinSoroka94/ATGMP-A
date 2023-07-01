@@ -1,0 +1,10 @@
+node_modules
+videos
+screenshots
+downloads
+reports
+data
+.scannerwork
+runner-results
+allure-results
+allure-report

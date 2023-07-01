@@ -1,0 +1,4 @@
+{
+  "exist": ["info", "logger", "bug", "name", "project", "Bug Tracking System"],
+  "absent": ["something that should not be in the logs", "abbabagalamaga", "should not exist"]
+}

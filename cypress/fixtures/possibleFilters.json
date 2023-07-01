@@ -1,0 +1,18 @@
+[
+  {"name": "Total",
+  "value": {"passedFilter": 1, "failedFilter": 100}},
+  {"name": "Passed",
+  "value": {"passedFilter": 1, "failedFilter": 100}},
+  {"name": "Failed",
+  "value": {"passedFilter": 1, "failedFilter": 100}},
+  {"name": "Skipped",
+  "value": {"passedFilter": 1, "failedFilter": 100}},
+  {"name": "Product bug",
+  "value": {"passedFilter": 1, "failedFilter": 100}},
+  {"name": "Automation bug",
+  "value": {"passedFilter": 1, "failedFilter": 100}},
+  {"name": "System issue",
+  "value": {"passedFilter": 1, "failedFilter": 100}},
+  {"name": "To investigate",
+  "value": {"passedFilter": 1, "failedFilter": 100}}
+]
